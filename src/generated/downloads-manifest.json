@@ -1,0 +1,52 @@
+{
+  "2026-01-31-pcap": {
+    "path": "exercises/2026-01-31/2026-01-31-traffic-analysis-exercise.pcap.zip",
+    "bytes": 21692204,
+    "sha256": "4e61efac9df5a5349edb4402331cd801d95d1fa658dd9799e9e7ae88a18eda44",
+    "inner": {
+      "filename": "2026-01-31-traffic-analysis-exercise.pcap",
+      "bytes": 27242609,
+      "sha256": "f755444d0b6eac847e07b73dea0774084b232d8577f536547a12f39b959d7833"
+    }
+  },
+  "2026-02-28-pcap": {
+    "path": "exercises/2026-02-28/2026-02-28-traffic-analysis-exercise.pcap.zip",
+    "bytes": 5173058,
+    "sha256": "5511fefd9b1c456d82871e0f5499b182ff3bb9f11338023c6d5c4d38cb7834f0",
+    "inner": {
+      "filename": "2026-02-28-traffic-analysis-exercise.pcap",
+      "bytes": 6581991,
+      "sha256": "3dc470f5490ec15b4024c513e87c67e0b17caeae2a2ce3d83541be24ef407e61"
+    }
+  },
+  "2026-08-09-pcap": {
+    "path": "exercises/2026-08-09/2026-08-09-traffic-analysis-exercise.pcap.zip",
+    "bytes": 12764431,
+    "sha256": "af74395333167ea519c6e0cdf51f13b83a416760072d43d376ee87915bbe01ac",
+    "inner": {
+      "filename": "2026-08-09-traffic-analysis-exercise.pcap",
+      "bytes": 16007378,
+      "sha256": "0ea6b597732a9ce6af9a7e3adff4512c9a91b4bce27184c8fdeb746f05cce170"
+    }
+  },
+  "2026-09-11-pcap": {
+    "path": "exercises/2026-09-11/2026-09-11-traffic-analysis-exercise.pcap.zip",
+    "bytes": 54684975,
+    "sha256": "1a454c51432bc4b99d155875b3ef37faedc70521018e93c936796473a3a2cec6",
+    "inner": {
+      "filename": "2026-09-11-traffic-analysis-exercise.pcap",
+      "bytes": 59484402,
+      "sha256": "21bb800849459709a7ceb5513573b2b20f090ffccd00eb89b9886feedd47a2df"
+    }
+  },
+  "2026-10-01-pcap": {
+    "path": "exercises/2026-10-01/2026-10-01-traffic-analysis-exercise.pcap.zip",
+    "bytes": 33171081,
+    "sha256": "95d08127d4fed01c7abf5e1f45ea166f9d5a5110512de450cf45a79011bffcde",
+    "inner": {
+      "filename": "2026-10-01-traffic-analysis-exercise.pcap",
+      "bytes": 36838132,
+      "sha256": "287d6dee90cfef71f98a97c42e30444608de2cf59d2f7392a0a6df8dbbc8274b"
+    }
+  }
+}

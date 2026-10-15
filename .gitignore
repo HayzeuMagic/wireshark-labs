@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+# Third-party answer PDFs are reference material only and are never published.
+*-answers.pdf/
+# Raw exercise captures are unencrypted malware traffic; only the password-protected
+# ZIPs in public/downloads/files are published. Keep the originals locally.
+*.pcap/
+*.pcap
